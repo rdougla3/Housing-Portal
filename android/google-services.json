@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "966415333239",
+    "firebase_url": "https://housing-portal-76bf0.firebaseio.com",
+    "project_id": "housing-portal-76bf0",
+    "storage_bucket": "housing-portal-76bf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966415333239:android:f4a6cffc695cea0b565372",
+        "android_client_info": {
+          "package_name": "com.ross.housingportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966415333239-8m525mvjfuop73uph6n7hb8fns4244r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVdmzcOgzQ4wzrpy2xcfJiHvkoErEvurA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966415333239-8m525mvjfuop73uph6n7hb8fns4244r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
